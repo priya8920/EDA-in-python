@@ -12,10 +12,10 @@ Understand by example : you have to order best food for your family from the var
 Defination           :  An EDA(Exploratory Data Analysis) is a process or technique to gather some meaningful insights of the data and various aspects from the data ,so that                               various operations can be performed on the data seamlessly.
                         
 ## What is the purpose/objective of Exploratory Data Analysis?
--> It is basically used to filter/clean the data from the redundancies(null values/missing values/duplicate values).
--> To identify the independent and dependent variables in the dataset .
--> To identify the correlations between the variables.
--> To detect the outliers
+1. It is basically used to filter/clean the data from the redundancies(null values/missing values/duplicate values).
+2. To identify the independent and dependent variables in the dataset .
+3. To identify the correlations between the variables.
+4. To detect the outliers
 
 ## Steps involved in EDA:
 1. Description of data.
